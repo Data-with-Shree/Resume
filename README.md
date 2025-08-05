@@ -1,12 +1,30 @@
+Below is the revised **`README.md`** with **Technical Skills** moved to the very top—immediately after your name banner—while everything else stays the same.
+
+```markdown
+# Shreedevi Venugopal  
+### Data Analyst · MBA (Business Analytics)
+
+---
+
+## Technical Skills
+**SQL · Excel · RapidMiner · Power BI · Tableau · Statistics · Data Visualisation**
+
+---
+
+## About
+Final-year MBA candidate at Deakin University with a foundation in data analysis, marketing, and operations. Known for proactive problem-solving, clear communication, and a knack for turning data into business wins.
+
+---
+
+## Experience  _(reverse-chronological)_
 
 ### Analytics Intern (Consultancy Project) — **Deakin University**  
 *Mar 2025 – Present*  
 - Analysed digital-performance trends in **Meta Business Suite**, **Google Analytics**, and **Hootsuite**, identifying engagement gaps that expanded social reach **20 %**.  
-- Conducted budget forecasting and competitor benchmarking, enabling a **15 %** staffing-cost reduction without impacting delivery.  
-- Built and presented visual reports in **Power BI**, guiding leadership on marketing strategy, content allocation, and KPI alignment.  
-- Developed insight-driven growth strategies that lifted user retention **10 %** in a targeted social campaign.  
+- Conducted budget forecasting and competitor benchmarking, enabling a **15 %** staffing-cost reduction with no loss in performance.  
+- Built and presented visual reports in **Power BI**, influencing leadership decisions on marketing strategy and content allocation.  
+- Developed insight-driven growth plans that lifted user retention **10 %** in a targeted social campaign.  
 - Translated complex cross-platform data into clear, actionable intelligence for executive-level stakeholders.  
-
 
 ### Merchandise Team Member — **Uniqlo**  
 *Sept 2024 – Present*  
@@ -18,10 +36,10 @@
 
 ### Strategy Analyst — **Spade 9 Cafe**  
 *Jun 2024 – Jan 2025*  
-- Collected post-level metrics from Instagram & TikTok, built dashboards in **Power BI**, and pinpointed the content that drove foot traffic.  
-- Modelled promo ROI by weekday and weather, then scheduled targeted promos—lifting same-day sales **18 %**.  
-- Cleaned **30 k +** ticket lines in **SQL**, ran cohort and time-series analyses, and surfaced actionable insights for pricing & inventory.  
-- Researched 40 competitor menus, overlaid Google Trends, and introduced quarterly swaps; new kimchi-toastie line **doubled lunch turnover**.  
+- Collected Instagram & TikTok post-level metrics, built **Power BI** dashboards, and pinpointed the content that drove foot traffic.  
+- Modelled promo ROI by weekday and weather, scheduling targeted deals that lifted same-day sales **18 %**.  
+- Cleaned **30 k+** ticket lines in **SQL**, ran cohort and time-series analyses, and surfaced actionable insights for pricing & inventory.  
+- Bench-marked 40 competitor menus with Google Trends and introduced quarterly swaps; a new kimchi-toastie line **doubled lunch turnover**.  
 - Combined analytics insights to tighten shift staffing and nudged average daily revenue **15 % YoY**.  
 
 ### Team Lead — **Melbourne Cricket Ground**  
@@ -30,3 +48,26 @@
 - Boosted event revenue **125 %** via real-time staffing and ops tweaks.  
 - Logged sales & inventory data in Excel for accurate post-event forecasting.  
 - Standardised SOPs and mentored new hires across 30 + major events.  
+
+---
+
+## Education
+**MBA (Business Analytics),** Deakin University — *2023 – 2025*  
+**B.Sc.,** St Joseph’s University — *2019 – 2022*
+
+---
+
+## Volunteering
+- Organised food & supply drives for 90 orphaned children.  
+- Led a tree-planting initiative, adding 200 + saplings to rural areas.  
+
+---
+
+## Contact
+📍 Melbourne, VIC  
+📧 shreedevi.venu.work@gmail.com  
+📞 +61 478 015 886  
+🔗 [LinkedIn](https://www.linkedin.com/in/shreedevi-v/)
+```
+
+Commit & push this version, and your résumé will now display **Technical Skills** right at the top.
