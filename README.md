@@ -4,7 +4,7 @@
 ---
 
 ## Technical Skills  
-SQL · Excel · RapidMiner · Power BI · Tableau · Statistics · Data Visualisation  
+SQL · Excel · RapidMiner · Power BI · Tableau · Statistics · Data Visualisation 
 
 ---
 
