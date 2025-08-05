@@ -13,7 +13,7 @@ Final-year MBA candidate at Deakin University with a foundation in data analysis
 
 ---
 
-## Experience *(reverse-chronological)*  
+## Experience 
 
 ### Analytics Intern (Consultancy Project) — **Deakin University**  
 *Mar 2025 – Present*  
