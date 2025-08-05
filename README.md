@@ -3,21 +3,21 @@
 
 ---
 
-## Technical Skills
-**SQL · Excel · RapidMiner · Power BI · Tableau · Statistics · Data Visualisation**
+## Technical Skills  
+SQL · Excel · RapidMiner · Power BI · Tableau · Statistics · Data Visualisation  
 
 ---
 
-## About
+## About  
 Final-year MBA candidate at Deakin University with a foundation in data analysis, marketing, and operations. Known for proactive problem-solving, clear communication, and a knack for turning data into business wins.
 
 ---
 
-## Experience 
+## Experience *(reverse-chronological)*  
 
 ### Analytics Intern (Consultancy Project) — **Deakin University**  
 *Mar 2025 – Present*  
-- Analysed digital-performance trends in **Meta Business Suite**, **Google Analytics**, and **Hootsuite**, finding engagement gaps that expanded social reach **20 %**.  
+- Analysed digital-performance trends in **Meta Business Suite**, **Google Analytics**, and **Hootsuite**, uncovering engagement gaps that expanded social reach **20 %**.  
 - Conducted budget forecasting and competitor benchmarking, enabling a **15 %** staffing-cost reduction with no loss in performance.  
 - Built and presented visual reports in **Power BI**, guiding leadership on marketing strategy and content allocation.  
 - Developed insight-driven growth plans that lifted user retention **10 %** in a targeted social campaign.  
@@ -48,14 +48,14 @@ Final-year MBA candidate at Deakin University with a foundation in data analysis
 
 ---
 
-## Education
+## Education  
 - **MBA (Business Analytics)** – Deakin University  
-- **B.Sc.** – St Joseph’s University
-
+- **B.Sc.** – St Joseph’s University  
 
 ---
 
-## Contact
+
+## Contact  
 📍 Melbourne, VIC  
 📧 shreedevi.venu.work@gmail.com  
 📞 +61 478 015 886  
