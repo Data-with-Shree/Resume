@@ -1,8 +1,12 @@
 
 ### Analytics Intern (Consultancy Project) — **Deakin University**  
 *Mar 2025 – Present*  
-- Analysed cross-platform engagement data, uncovering gaps that grew social reach **20 %**.  
-- Built **Power BI** dashboards that informed leadership decisions and improved user retention **10 %**.  
+- Analysed digital-performance trends in **Meta Business Suite**, **Google Analytics**, and **Hootsuite**, identifying engagement gaps that expanded social reach **20 %**.  
+- Conducted budget forecasting and competitor benchmarking, enabling a **15 %** staffing-cost reduction without impacting delivery.  
+- Built and presented visual reports in **Power BI**, guiding leadership on marketing strategy, content allocation, and KPI alignment.  
+- Developed insight-driven growth strategies that lifted user retention **10 %** in a targeted social campaign.  
+- Translated complex cross-platform data into clear, actionable intelligence for executive-level stakeholders.  
+
 
 ### Merchandise Team Member — **Uniqlo**  
 *Sept 2024 – Present*  
